@@ -35,3 +35,8 @@ node_modules
 # joobster directory
 dist
 tmp
+
+# cordova directory
+hooks
+platforms
+plugins
