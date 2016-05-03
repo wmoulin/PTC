@@ -33,10 +33,10 @@ var Main = function (_React$Component) {
   _createClass(Main, [{
     key: "render",
     value: function render() {
-
+      console.log("coucou le test !");
       return _react2.default.createElement(
         "div",
-        { className: "app" },
+        { className: "myapp" },
         _react2.default.createElement(
           "h1",
           null,

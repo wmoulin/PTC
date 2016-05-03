@@ -16,9 +16,9 @@ export default class Main extends React.Component {
   };
 
   render() {
-
+    console.log("coucou le test !");
     return (
-      <div className="app">
+      <div className="myapp">
         <h1>Hello, world!</h1>
         <div className="content">
         </div>
